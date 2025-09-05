@@ -72,17 +72,10 @@
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmika1230&theme=github_dark" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/rashmika1230">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika1230&layout=compact&langs_count=8&theme=github_dark&hide=hack" alt="Top Languages" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika1230&layout=compact&theme=github_dark" />
   </a>
 </p>
 
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<p><img src="https://github.com/rashmika1230/rashmika1230/blob/output/github-contribution-grid-snake.svg" alt="snake gif"></p>
-</div>
 
 ## 🌐 Connect with Me
 
