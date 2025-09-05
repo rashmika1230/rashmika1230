@@ -1,8 +1,9 @@
 # Hi there, 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+I'm+Rashmika+Lakshan!;FullStack Developer;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Rashmika+Lakshan!;FullStack+Developer...!;" alt="Typing SVG" />
 </div>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -64,19 +65,23 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/rashmika1230">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=rashmika1230&show_icons=true&theme=github_dark&rank_icon=github" />
   <a href="https://github.com/rashmika1230">
-    <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmika1230&theme=github_dark" />
-      <a href="https://github.com/rashmika1230">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika1230&layout=compact&langs_count=8&theme=github_dark&hide=hack" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rashmika1230&show_icons=true&theme=github_dark&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rashmika1230">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rashmika1230&theme=github_dark" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/rashmika1230">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashmika1230&layout=compact&langs_count=8&theme=github_dark&hide=hack" alt="Top Languages" />
   </a>
 </p>
+
+
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<p><img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt="snake gif"></p>
+<p><img src="https://github.com/rashmika1230/rashmika1230/blob/output/github-contribution-grid-snake.svg" alt="snake gif"></p>
 </div>
 
 ## 🌐 Connect with Me
